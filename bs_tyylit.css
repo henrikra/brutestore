@@ -1,0 +1,166 @@
+﻿body {
+background-color:#F3F3F3;
+font-family:Arial;
+margin:0;
+}
+
+#ostoskori {
+text-align:center;
+color:#fff;
+background:#000;
+width:50%;
+margin:auto;
+}
+
+#searchBar {
+padding-top:20px;
+text-align:center;
+color:#fff;
+background:#000;
+width:50%;
+margin:auto;
+}
+
+#ostoskori table {
+margin:auto;
+}
+
+.isotuoteinfo table {
+text-align:left;
+margin:0 auto;
+}
+
+.yhteystiedot {
+text-align:center;
+}
+
+.tuotetaulukko h2 {
+color:#FFF;
+}
+
+.taulukkokuvadiv {
+width:140px;
+white-space:nowrap;
+text-align:center;
+padding-left:.3em;
+}
+
+.form-element form {
+display:inline-block;
+padding:20px;
+}
+
+#isokuvadiv {
+width:220px;
+padding-right:.3em;
+}
+
+.helper {
+display:inline-block;
+height:100%;
+vertical-align:middle;
+}
+
+.tuotekuvaus {
+text-align:left;
+padding-right:10px;
+padding-left:20px;
+}
+
+.tuotekuvausdiv {
+padding-left:2em;
+padding-right:2em;
+overflow:hidden;
+}
+
+.tuote_taulukko {
+table-layout:fixed;
+border-collapse:collapse;
+}
+
+.tuote_taulukko td {
+min-width:150px;
+}
+
+.tuote_taulukko tr {
+padding-bottom:10px;
+padding-top:10px;
+border-bottom:2px solid #F3F3F3;
+}
+
+.tuote_taulukko td div {
+height:150px;
+}
+
+.tyhja_rivi {
+height:1em;
+}
+
+#otsikko {
+background:#ED1C24;
+text-align:center;
+width:50%;
+margin:auto;
+}
+#otsikko  a{
+	color:#FFF;
+	text-decoration:none;
+}
+
+
+#yhteystieto_taulukko_ostot td {
+padding-right:.5em;
+padding-left:1em;
+}
+
+#yhteystieto_taulukko_yhteystiedot td {
+padding-right:.5em;
+padding-left:5.4em;
+}
+
+h1 {
+margin-bottom:0;
+text-align:center;
+color:#FFF;
+font-style:italic;
+}
+
+h2 {
+margin-left:0;
+margin-right:0;
+margin-top:0;
+text-align:center;
+color:#FFF;
+background:#3F3F3F;
+}
+
+h3 {
+background:green;
+}
+
+#lisaa_ostoskoriin_nappi {
+width:70%;
+margin:center;
+padding:.1em;
+}
+
+.lisaa_maara_teksti {
+width:15%;
+margin:center;
+padding:.1em;
+}
+
+img {
+vertical-align:middle;
+max-height:100%;
+max-width:100%;
+margin:auto;
+padding:.1em;
+}
+
+#tuoteinfo,.isotuoteinfo,.tuotetaulukko {
+width:50%;
+text-align:left;
+background-color:#FFF;
+margin:auto;
+}
